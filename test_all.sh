@@ -1,5 +1,5 @@
 #!/bin/bash
-norminette ../c04/*/ft*.c
+norminette ../cpc04/*/ft*.c
 echo
 
 for i in ex{00..03}
